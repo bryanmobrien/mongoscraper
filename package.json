@@ -1,0 +1,26 @@
+{
+  "name": "mongoscraper",
+  "version": "1.0.0",
+  "description": "a web app that lets users view and leave comments on the latest news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanmobrien/mongoscraper.git"
+  },
+  "keywords": [
+    "express",
+    "express-handlebars",
+    "mongoose",
+    "cheerio",
+    "axios"
+  ],
+  "author": "Bryan M. O'Brien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanmobrien/mongoscraper/issues"
+  },
+  "homepage": "https://github.com/bryanmobrien/mongoscraper#readme"
+}
